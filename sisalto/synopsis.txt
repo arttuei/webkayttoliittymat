@@ -1,0 +1,17 @@
+Aihe:
+
+Sivusto keskittyy jalkapallon historiaan, joka kattaa lajin kehityksen varhaisista pallopeleistä aina nykypäivään saakka. Sivustolla käsitellään miten jalkapallo on syntynyt ja miten se on kehittynyt aikojen saatossa.
+
+
+Kohderyhmät:
+
+- Jalkapallosta kiinnostuneet, jotka haluavat syventää tietämystään lajista. 
+- Historiasta kiinnostuneet, jotka voivat käyttää sivustoa tiedonlähteenä ja viitteellisenä materiaalina.
+(Tässä tapauksessa kohderyhmänä toimivat nuoret, aikuiset ja vanhat. Käyttäjien tekniset taidot voivat vaihdella laidasta laitaan.)
+
+
+Hahmolakien hyödyntäminen:
+
+- Jatkuvuus: Navigaatio pysyy samana sivuston jokaisella sivulla. Tässä tapauksessa sijoitettuna sivuston yläosaan ja mobiilissa "hampurilaisvalikkona".
+- Samanlaisuus: Sivustolla on käytössä yhtenäinen väripaletti ja samat fontit ovat käytössä jokaisella sivulla.
+- Läheisyys: Sivuston elementtejä ryhmitellään loogisesti sijoittamalla ne lähelle toisiaan. Esimerkiksi alateemat ovat omissa lohkoissaan.
